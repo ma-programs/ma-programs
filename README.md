@@ -26,13 +26,13 @@
 
 ## 👨‍💻 About Me
 
-I'm an **Advanced Python Developer and Web Developer** with a strong interest in **Computer Vision and AI Engineering**.
+I'm an **Advanced Python Developer and Web Developer** with a strong interest in **WebDevelopment  and AI Engineering**.
 
-I build web applications using **Advanced Python, Advanced Django, JavaScript, HTML, CSS, PostgreSQL, and SQLite**, focusing on practical, database-driven applications and real-world problem solving.
+I build web applications using **Python, Django, JavaScript, HTML, CSS, PostgreSQL, and SQLite**, focusing on practical, database-driven applications and real-world problem solving.
 
 I also work with **OpenCV and MediaPipe** to build computer vision applications and explore how intelligent systems can interact with visual data.
 
-Currently, I'm expanding my knowledge in **AI Engineering, Advanced Django development, REST APIs, and modern software technologies**.
+Currently, I'm expanding my knowledge in **AI Engineering, Advanced Django development, REST APIs, React, Nodejs and modern software technologies**.
 
 > **Build. Learn. Experiment. Improve.**
 
@@ -81,7 +81,7 @@ Currently, I'm expanding my knowledge in **AI Engineering, Advanced Django devel
 <div align="center">
 
 **Web Development**
-Advanced Python · Advanced Django · JavaScript · HTML5 · CSS3 · PostgreSQL · SQLite
+Advanced Python · Django · JavaScript · HTML5 · CSS3 · React ·PostgreSQL · SQLite 
 
 **Computer Vision**
 OpenCV · MediaPipe
@@ -123,6 +123,9 @@ Advanced Django · REST APIs · Database-Driven Applications
  Django
        │
    JavaScript
+       │
+       ▼
+     React
        │
        ▼
  Advanced REST APIs
